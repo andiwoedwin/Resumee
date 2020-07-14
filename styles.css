@@ -1,0 +1,29 @@
+img {
+    width: 300px;
+    height: 300px;
+    border: 10px solid blue;
+}
+*{
+    background-color: burlywood;
+}
+.column1{
+    float: left;
+    width: 30%;
+}
+h1{
+    color: darkblue;
+    text-align: left;
+}
+h2{
+    color: red;
+}
+h3{
+    color: royalblue;
+}
+span{
+    color: seagreen;
+}
+.column2{
+    float: left;
+    width: 60%;
+}
